@@ -1,0 +1,19 @@
+/* AboutPage.css */
+
+.about-container {
+    text-align: center;
+    background-color: #f7f7f7;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+ .about-container h1 {
+    color: #333;
+  }
+  
+ .about-container p {
+    color: #666;
+    font-size: 18px;
+  }
+  

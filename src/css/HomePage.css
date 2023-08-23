@@ -1,0 +1,21 @@
+/* HomePage.css */
+
+.home-container {
+    text-align: center;
+    padding: 40px;
+    background-color: #f0f0f0;
+    border-radius: 5px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .welcome-heading {
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .description {
+    color: #666;
+    font-size: 18px;
+  }
+  
